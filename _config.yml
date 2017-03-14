@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+permalink: /:title/
+highlighter: rouge
+markdown: kramdown
+assets:
+  compress:
+    css:  sass
+    js:   uglifier
+  cache: false
