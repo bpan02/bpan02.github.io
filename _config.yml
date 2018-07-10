@@ -6,3 +6,5 @@ assets:
     css:  sass
     js:   uglifier
   cache: false
+
+theme: jekyll-theme-slate
